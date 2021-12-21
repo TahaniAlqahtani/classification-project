@@ -33,9 +33,8 @@ The main technologies and libraries that will be used :
 3. HTML/CS 
 
 #### Libraries: 
-1. Pandas 
-2. BeautifulSoup 
-3. Matplotlib 
-4. Seaborn 
-5. Numpy 
-6. Sklearn 
+1. Pandas  
+2. Matplotlib 
+3. Seaborn 
+4. Numpy 
+5. Sklearn 
